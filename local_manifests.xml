@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="mi-thorium"
            fetch="https://github.com/Mi-Thorium"
-           revision="a14/master" />
+           revision="a15/master" />
   <remote  name="los"
            fetch="https://github.com/LineageOS"
            revision="lineage-22.0" />
