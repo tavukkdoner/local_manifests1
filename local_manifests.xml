@@ -47,7 +47,10 @@
 -->
 
   <remove-project path="system/memory/lmkd" />
+  <!--
   <project path="system/memory/lmkd" name="lmkd" groups="pdk" remote="tavukkdoner" revision="tmp2682024-15.0.0_r2" />
+  -->
+  <project path="system/memory/lmkd" name="android_system_memory_lmkd" groups="pdk" remote="tavukkdoner" revision="15.0" />
 
   <remove-project path="vendor/qcom/opensource/libfmjni"/>
   <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" groups="qcom" remote="tavukkdoner" revision="lineage-22.0" />
